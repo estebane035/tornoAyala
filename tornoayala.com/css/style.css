@@ -1,0 +1,147 @@
+/* 
+
+Advance Hosting - CSS File
+
+*/
+
+
+/*** GLOBAL  ***/
+html,body{height:100%}
+body {
+	font-family:Verdana, Arial, Tahoma;
+	font-size:12px;
+	margin:0 auto;
+	padding:0;
+	color:#333;
+	background-color:#f0f0f0;
+}
+* {
+	margin:0;
+	padding:0;
+}
+*:focus {
+	outline:none; /* removes ugly dotted border but may make template more unsuable, up to you
+					 if you want to keep it! */
+}
+form{margin:0; padding:0;}
+
+/*** END OF GLOBAL  ***/
+
+/*** DEFAULT ELEMENT STYLES ***/
+/* heading */
+h1, h2, h3, h4, h5 {margin-bottom:15px;	font-family:Arial, Verdana;	font-weight:normal;}
+h1 {font-size:30px;font-weight:bold; line-height:32px;}
+h2 {font-size:28px;line-height:30px;}
+h3 {font-size:22px;line-height:24px;}
+h4 {font-size:20px;line-height:22px;}
+h5 {font-size:12px; margin:3px 0px; padding:0px; font-weight:bold; letter-spacing:1px;}
+
+/* links */
+a {color:#1467a3;text-decoration:underline;}
+a:hover{color:#4294cf;}
+a img{border:none}
+
+/* lists, blockquotes and paragraphs */
+p, ul, ol, blockquote {
+	font-size:14px;
+	line-height:18px;
+	margin-bottom:20px;
+	color:#333;
+}
+ul, ol {
+	margin:10px 0 10px 40px;
+}
+li ol,
+li ul
+{
+	font-size:1.0em;
+	list-style:square;
+	margin-bottom:0;
+	margin-top:0;
+}
+li ol {list-style:decimal;}
+
+li {
+	padding: 0 0 15px;
+}
+
+blockquote {
+	font-style:italic;
+	margin:25px 0 25px 0px;
+	color:#333;
+	padding:10px 20px 10px 25px;
+	background-image:url(../images/quoleft.gif);
+	background-repeat:no-repeat;
+}
+
+/* code */
+code {
+	font-family:Arial, Verdana;
+	letter-spacing:1px;
+	margin:25px 0 25px 0px;
+	display:block;
+	font-size:0.9em;
+	border-left:4px solid #005d94;
+	padding:15px 10px;
+}
+/*** END OF DEFAULT ELEMENT STYLES ***/
+
+/*** CONTAINER ***/
+#container{background-image:url(../images/bg_container.gif); background-repeat:repeat-x; background-position:top}
+/*** END OF CONTAINER ***/
+
+/*** CENTERCOLUMN ***/
+
+#centercolumn{
+	width:950px; 
+	margin:0 auto; 
+	background: url(../imag/iniTableroFondo.jpg) 0 160px  no-repeat;
+}
+
+/*** END OF CENTERCOLUMN ***/
+
+/*** TOP ***/
+#topmenu{height:45px;}
+#topmenu ul{
+	list-style-type:none; 
+	margin:0px; 
+	padding:20px 0px 0px 0px; 
+	float:right;
+}
+#topmenu ul li{
+	display:inline; 
+	font-family:Arial;
+	text-align: center;
+}
+#topmenu ul li a, #topmenu ul li a:visited{padding:0px 20px; color:#094068; float:left; font-size:14px; text-decoration:none; background-image:url(../images/lineborder.gif); background-repeat:no-repeat; background-position:left center;}
+#topmenu ul li.noborder a, #topmenu ul li.noborder a:visited{ background-image:none;}
+#topmenu ul li a:hover{color:#266898;}
+
+#top{height:80px;}
+#logo{
+	float:left;
+	width:400px;
+}
+#topcontact{float:left; width:530px; text-align:right; padding:25px 20px 0px 0px; font-family:Arial;}
+.f1{font-size:16px; font-weight:bold;}
+.f2{font-size:22px; font-weight:normal;}
+/*** END OF TOP ***/
+
+
+/*** CONTENT ***/
+#main_content{padding:0px 44px 25px 24px;}
+.imgleft{
+	float:left; 
+	padding-right:30px;
+	padding-bottom: 20px;
+}
+.imgright{float:right; padding-left:15px;}
+.clr{clear:both}
+blockquote div{background-image:url(../images/quoright.gif); background-repeat:no-repeat; background-position:right bottom;padding:0px 5px 5px 5px;}
+/*** END OF CONTENT ***/
+
+
+/*** FOOTER ***/
+#footer{height:40px; padding:40px 0px 0px 0px; text-align:center; clear:both; font-family:Arial, Verdana;}
+#footer a, #footer a:visited{text-decoration:none}
+/*** END OF FOOTER ***/

@@ -1,0 +1,17 @@
+section {
+  min-height: 55vh !important;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.logo-menu{
+	width: 30%;
+    height: auto;
+}
+
+.m-t-40{
+	margin-top: 40px;
+}

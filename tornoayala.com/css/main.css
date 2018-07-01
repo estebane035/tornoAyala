@@ -1,0 +1,57 @@
+/* 
+
+Advance Hosting - CSS File
+
+*/
+
+#header{height:300px;}
+#headertext{color:#fff; width:450px; padding:30px 0px 0px 65px;}
+#headertext h1{color:#fff;}
+.badge{padding:0px 10px 0px 0px; margin-top:-40px;}
+#headertext ul{list-style-type:none; margin:0px 0px 20px 0px; padding:0px;}
+#headertext ul li{background-image:url(../images/arrow.gif); background-position:0px 3px;  background-repeat:no-repeat; color:#fff;line-height:normal; padding:0px 0px 10px 20px; }
+
+/*** CONTENT ***/
+#content{
+	padding:60px 5px 10px;
+}
+#block1{padding:0px;}
+.box{float:left; width:280px; padding:0px 10px 0px 10px; height:180px;}
+.box p{color:#6a9807}
+.box ul{margin:0px; padding:0px; list-style-type:none;}
+.box ul li{background-image:url(../images/list.gif); background-repeat:no-repeat; background-position:0px 2px; padding:0px 0px 10px 30px; color:#6a9807}
+.box .imgright{padding-right:0px !important;}
+.separator{background-image:url(../images/dot.gif); background-position:center; background-repeat:repeat-y; width:20px; padding:0px 0px 0px 0px; height:180px; float:left;}
+
+#block2{ padding-top:20px;}
+.bluebox p, .bluebox h3, .bluebox a, .bluebox a:visited{color:#fff;}
+.padbox{padding:20px;}
+.padbox blockquote{margin:0px; padding-bottom:0px;}
+.bluebox{background-image:url(../images/blue_box_repeat.gif); background-repeat:repeat-x; background-color:#045b9b; float:left; width:560px; color:#fff; line-height:0;}
+.blue_c_t_l{background-image:url(../images/blue_c_t_l.gif); background-repeat:no-repeat; background-position:left top}
+.blue_c_t_r{background-image:url(../images/blue_c_t_r.gif); background-repeat:no-repeat; background-position:right top}
+.blue_c_b_l{background-image:url(../images/blue_c_b_l.gif); background-repeat:no-repeat; background-position:left bottom}
+.blue_c_b_r{background-image:url(../images/blue_c_b_r.gif); background-repeat:no-repeat; background-position:right bottom}
+
+.greybox{
+	background-image:url(../images/grey_box_repeat.gif); 
+	background-repeat:repeat-x; 
+	background-color:#e0e0e0; 
+	float:left; 
+	width:320px; 
+	padding-left: 20px;
+	margin-left:40px;
+}
+.grey_c_t_l{background-image:url(../images/grey_c_t_l.gif); background-repeat:no-repeat; background-position:left top}
+.grey_c_t_r{background-image:url(../images/grey_c_t_r.gif); background-repeat:no-repeat; background-position:right top}
+.grey_c_b_l{background-image:url(../images/grey_c_b_l.gif); background-repeat:no-repeat; background-position:left bottom}
+.grey_c_b_r{background-image:url(../images/grey_c_b_r.gif); background-repeat:no-repeat; background-position:right bottom}
+
+.bluebox, .greybox{min-height:176px;}
+/*** END OF CONTENT ***/
+
+p.contacto {
+	font-size: 14px;
+	margin-bottom: 8px;
+	font-weight: bold;
+}

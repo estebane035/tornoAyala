@@ -1,0 +1,15 @@
+/* 
+
+Advance Hosting - CSS File
+
+USE THIS STYLE SHEET EXCLUSIVELY FOR THE Advance Hosting IE6
+
+*/
+h1, h2, h3, h4, h5 {margin-bottom:10px;	font-family:Arial, Verdana;	font-weight:normal;}
+.bluebox, .greybox{height:176px;}
+ul.col2, ul.col3, ul.col4, ul.col2 li, ul.col3 li, ul.col4 li{width:120px; white-space:normal;}
+li.price{
+	margin:0px 0px 5px 0px;
+}
+
+

@@ -1,0 +1,3165 @@
+# Webalizer V2.20-01 Incremental Data - 04/20/2018 22:18:09
+2018 4 20 22 18 9
+5450 4411 756 66 53 244 35067461 1547 1156 0
+19 1 174 1 20
+160 57 350562 35 56 48
+306 252 1790931 65 90 66
+297 256 1724851 48 80 64
+402 371 2539097 67 90 72
+359 294 2002697 66 114 85
+218 187 1191865 46 60 53
+340 281 1799416 63 92 66
+213 156 918887 48 86 52
+189 160 1153673 37 63 49
+364 316 2053646 63 90 65
+209 182 1214893 49 66 52
+311 252 1694411 65 88 64
+219 176 1121754 56 68 57
+133 117 664921 38 63 54
+126 107 620276 40 67 57
+327 293 1845483 49 71 55
+231 210 1263970 39 83 50
+526 338 3613494 62 109 60
+455 364 7149397 79 78 64
+65 42 353237 19 33 23
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+302 221 6061874 55
+84 66 413107 44
+133 78 585133 48
+86 61 402529 50
+116 76 436109 56
+115 93 468944 70
+90 69 384691 42
+113 90 588212 42
+68 41 227989 27
+194 169 1089267 58
+328 277 1675119 88
+293 240 1664510 83
+296 270 1739531 66
+315 283 1965902 70
+294 265 1894869 69
+252 191 1181809 65
+317 232 1538750 118
+341 305 2088634 56
+413 378 2575320 81
+254 221 1263584 73
+191 171 1087521 70
+235 196 1281051 68
+247 182 1222712 73
+373 236 3230294 75
+0
+0
+0
+4411
+0
+0
+0
+0
+0
+20
+0
+1
+0
+0
+139
+0
+0
+44
+0
+0
+15
+686
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+54
+71
+0
+0
+5
+0
+# -urls- 
+/images/bg_container.gif
+0 159 0 12402 0 0
+/
+0 1067 0 5095248 990 648
+/imag/tornolampara.jpg
+0 82 0 1232712 0 0
+/new/assets/img/logo_sin_fondo.png
+0 11 0 480830 0 0
+/new/assets/img/usa_flag.jpg
+0 4 0 33071 0 0
+/css/main.css
+0 171 0 462042 0 0
+/new/assets/img/contacto.jpg
+0 4 0 118620 0 0
+/imag/iniTableroFondo.jpg
+0 82 0 3544040 0 0
+/productosyservicios.html
+0 119 0 511518 80 14
+/new/assets/img/servicios.jpg
+0 4 0 139007 0 0
+/new/css/half-slider.css
+0 12 0 2820 0 0
+/new/vendor/bootstrap/css/bootstrap.css.map
+0 2 0 411645 0 0
+/new/vendor/bootstrap/css/bootstrap.css
+0 10 0 890760 0 0
+/css/inner.css
+0 130 0 734397 0 0
+/new/contacto.php
+0 13 0 71663 0 0
+/images/lineborder.gif
+0 158 0 6952 0 0
+/new/vendor/bootstrap/js/bootstrap.bundle.min.js.map
+0 1 0 273872 0 0
+/images/grey_c_t_l.gif
+0 81 0 8910 0 0
+/imag/maquinaria.jpg
+0 156 0 4202044 0 0
+/new/vendor/jquery/jquery.min.js
+0 10 0 434635 0 0
+/new/assets/img/taladro_1.jpg
+0 2 0 121006 0 0
+/images/grey_box_repeat.gif
+0 81 0 4293 0 0
+/new/quienes_somos.php
+0 2 0 8992 0 0
+/new/css/full-width-pics.css
+0 12 0 3258 0 0
+/new/css/2-col-portfolio.css
+0 12 0 2646 0 0
+/images/dot.gif
+0 81 0 65367 0 0
+/new/
+0 4 0 33284 1 0
+/new/css/business-frontpage.css
+0 12 0 3918 0 0
+/css/style.css
+0 247 0 830496 0 0
+/new/ajax/contacto_php.php
+0 13 0 0 0 0
+/new/js/jquery.validate.js
+0 10 0 212630 0 0
+/new/js/messages_es.js
+0 10 0 7750 0 0
+/new/assets/img/torno_3.jpg
+0 4 0 108142 0 0
+/new/assets/img/torno_2.jpg
+0 4 0 142740 0 0
+/images/grey_c_b_r.gif
+0 80 0 6160 0 0
+/new/scripts/english.js
+0 1 0 361 0 0
+/new/scripts/contacto.js
+0 7 0 8404 0 0
+/new/assets/img/torno_1.jpg
+0 11 0 2903295 0 0
+/imag/prodFoto3.jpg
+0 87 0 531781 0 0
+/css/ie6.css
+0 1 0 356 0 0
+/imag/iniServiciosFoto.jpg
+0 145 0 484627 0 0
+/new/js/jquery.form.js
+0 10 0 219185 0 0
+/imag/quienFoto5.jpg
+0 17 0 222445 0 0
+/imag/prodFoto2.jpg
+0 111 0 1055544 0 0
+/imag/logo.jpg
+0 247 0 2327745 0 0
+/new/productos.php
+0 1 0 10551 0 0
+/new/vendor/bootstrap/js/bootstrap.bundle.min.js
+0 10 0 338710 0 0
+/imag/encabMedianoFondo.jpg
+0 100 0 1778900 0 0
+/imag/quienFoto4.jpg
+0 15 0 298560 0 0
+/imag/prodFoto1.jpg
+0 106 0 425311 0 0
+/english.html
+0 39 0 208384 13 7
+/contacto.html
+0 78 0 317163 21 7
+/imag/quienFoto3.jpg
+0 14 0 297570 0 0
+/imag/grua.jpg
+0 77 0 1575064 0 0
+/quienessomos.html
+0 49 0 174288 14 9
+/imag/iniEnglishFoto.jpg
+0 145 0 415129 0 0
+/imag/quienFoto2.jpg
+0 13 0 338572 0 0
+/new/english.php
+0 1 0 7976 0 0
+/icons/apache_pb.gif
+0 2 0 0 0 0
+/images/grey_c_t_r.gif
+0 81 0 8910 0 0
+/prueba.php
+0 7 0 217 0 0
+/imag/iniContactoFoto.jpg
+0 145 0 262691 0 0
+/imag/quienFoto1.jpg
+0 14 0 179480 0 0
+/new/ajax/contacto.php
+0 25 0 12489 0 0
+/images/grey_c_b_l.gif
+0 81 0 6318 0 0
+/images/blue_box_repeat.gif
+0 80 0 24160 0 0
+# End Of Table - urls
+# -sites- (monthly)
+customer-agpr-140-230.megared.net.mx
+0 1 1 10248 0 0
+-
+104.236.60.17
+0 10 9 39833 1 1524116489
+/contacto.html
+40.77.177.192
+0 1 1 53 0 0
+-
+msnbot-157-55-39-144.search.msn.com
+0 2 0 994 0 0
+-
+msnbot-65-55-210-26.search.msn.com
+0 3 3 17911 0 0
+-
+msnbot-199-30-24-254.search.msn.com
+0 17 17 95873 0 0
+-
+msnbot-40-77-167-34.search.msn.com
+0 1 1 10248 0 0
+-
+crawl-66-249-69-86.googlebot.com
+0 1 1 3376 0 0
+-
+ns374354.ip-94-23-217.eu
+0 4 0 1988 0 0
+-
+crawl-66-249-79-45.googlebot.com
+0 1 1 4848 1 1523226428
+/
+ip102.ip-54-36-148.eu
+0 1 1 4848 1 1522542430
+/
+112.74.73.181
+0 2 0 994 1 1523909072
+-
+bd3c0990.virtua.com.br
+0 4 1 6339 1 1524243153
+/
+dsl-189-166-7-219-dyn.prod-infinitum.com.mx
+0 12 12 99822 1 1522859222
+/productosyservicios.html
+rate-limited-proxy-66-249-89-146.google.com
+0 1 1 27286 0 0
+-
+mailer.wix.com
+0 1 1 4848 1 1523476856
+/
+253.pool85-58-246.dynamic.orange.es
+0 2 0 994 1 1523784308
+-
+msnbot-157-55-39-113.search.msn.com
+0 3 2 9566 0 0
+-
+msnbot-207-46-13-199.search.msn.com
+0 1 0 497 0 0
+-
+crawl-66-249-66-136.googlebot.com
+0 2 0 0 0 0
+-
+dsl-187-144-187-185-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1523386239
+/
+40.77.177.13
+0 1 1 78 0 0
+-
+40.77.177.15
+0 2 2 163 0 0
+-
+msnbot-40-77-167-43.search.msn.com
+0 1 1 19904 0 0
+-
+dsl-187-201-112-254-dyn.prod-infinitum.com.mx
+0 25 24 149685 1 1523897552
+/contacto.html
+190.150.136.10
+0 2 0 994 1 1523041628
+-
+crawltxt2.bl.semrush.com
+0 5 0 2485 0 0
+-
+152-141-231-201.fibertel.com.ar
+0 1 1 4211 0 0
+-
+mail.soloworld.co.ke
+0 2 0 88 0 0
+-
+customer-cln-108-22.megared.net.mx
+0 13 12 100319 1 1523313050
+/productosyservicios.html
+google-proxy-66-102-7-134.google.com
+0 31 29 246007 3 1522811604
+/productosyservicios.html
+msnbot-157-55-39-223.search.msn.com
+0 2 2 13712 0 0
+-
+msnbot-65-55-210-216.search.msn.com
+0 3 3 17911 0 0
+-
+40.77.177.20
+0 1 1 78 0 0
+-
+msnbot-157-55-39-162.search.msn.com
+0 1 0 497 0 0
+-
+adsl-89-217-246-104.adslplus.ch
+0 1 1 9501 0 0
+-
+214.190-94-140.etapanet.net
+0 2 1 5345 1 1523129201
+/
+fixed-187-189-149-173.totalplay.net
+0 8 8 55842 1 1523989661
+/
+fixed-187-190-29-114.totalplay.net
+0 29 28 196647 1 1523630798
+/productosyservicios.html
+crawl11.bl.semrush.com
+0 1 1 4119 1 1523834436
+/contacto.html
+167.99.152.61
+0 1 1 4848 1 1524001515
+/
+172-245-215-46-host.colocrossing.com
+0 1 1 4848 1 1522940517
+/
+pc2011661886.optele.net
+0 3 3 30715 0 0
+-
+123.249.27.171
+0 1 0 497 0 0
+-
+40.77.177.34
+0 1 1 27286 0 0
+-
+66-111-41-253.static.sagonet.net
+0 1 1 0 1 1523511742
+/
+124.109.26.118
+0 1 0 497 1 1522729171
+/
+40.77.177.39
+0 2 2 188 0 0
+-
+212-129-15-152.rev.poneytelecom.eu
+0 2 0 0 0 0
+-
+pc20116618984.optele.net
+0 3 3 52831 0 0
+-
+ip72-199-113-41.sd.sd.cox.net
+0 28 27 192160 1 1522864002
+/
+dsl-189-163-53-92-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1522761761
+/
+tor-exit-1.zbau.f3netze.de
+0 1 0 497 1 1522627123
+-
+msnbot-207-46-13-186.search.msn.com
+0 2 2 13620 1 1523971102
+/contacto.html
+46.229.168.82
+0 2 0 994 0 0
+-
+msnbot-157-55-39-140.search.msn.com
+0 2 0 994 0 0
+-
+218.60.8.195
+0 1 0 497 1 1522580002
+-
+46.229.168.85
+0 2 0 994 0 0
+-
+crawl9.bl.semrush.com
+0 1 1 4848 1 1523834433
+/
+crawl-66-249-69-46.googlebot.com
+0 3 2 7550 1 1523583560
+/
+fixed-187-188-50-111.totalplay.net
+0 25 24 149685 1 1524144086
+/contacto.html
+93-158-161-88.spider.yandex.com
+0 2 2 9696 2 1523312002
+/
+dsl-189-141-223-91-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523987145
+/
+msnbot-207-46-13-115.search.msn.com
+0 5 0 2485 0 0
+-
+193.107.85.60
+0 4 2 10690 1 1522627121
+/
+zg-0324a-68.stretchoid.com
+0 1 1 4848 1 1522909929
+/
+dsl-189-235-99-35-dyn.prod-infinitum.com.mx
+0 1 1 15804 0 0
+-
+msnbot-207-46-13-35.search.msn.com
+0 1 1 4848 1 1523361892
+/
+dsl-189-172-43-242-dyn.prod-infinitum.com.mx
+0 2 2 20015 0 0
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 1 4848 1 1523674012
+/
+168.235.93.142
+0 3 3 14544 3 1523923973
+/
+msnbot-207-46-13-225.search.msn.com
+0 1 1 4848 1 1522791141
+/
+msnbot-207-46-13-124.search.msn.com
+0 1 1 4211 0 0
+-
+dojo.census.shodan.io
+0 10 2 13672 2 1524114916
+/
+ec2-18-231-29-215.sa-east-1.compute.amazonaws.com
+0 1 1 4848 1 1523407223
+/
+pagedebate.com
+0 466 466 2259168 447 1524211746
+/
+researchscan287.eecs.umich.edu
+0 3 2 10193 3 1524042914
+/
+msnbot-40-77-167-187.search.msn.com
+0 1 1 21255 0 0
+-
+125.35.11.30
+0 30 0 14910 1 1523186974
+-
+pc201166188241.optele.net
+0 5 5 4963 0 0
+-
+m3909.contaboserver.net
+0 1 1 4848 1 1523735497
+/
+40.77.177.69
+0 3 3 27368 0 0
+-
+ec2-54-208-26-244.compute-1.amazonaws.com
+0 1 1 4848 1 1522938884
+/
+www.inperfo.com
+0 1 1 4848 1 1523365177
+/
+185.234.218.250
+0 4 1 6339 1 1522980806
+/
+fixed-189-203-149-16.totalplay.net
+0 8 8 55842 1 1522687352
+/
+scan-92.security.ipip.net
+0 9 9 43632 9 1524202875
+/
+flower.census.shodan.io
+0 4 1 6339 1 1523257359
+/
+200.68.139.47
+0 28 27 191663 1 1522929559
+/contacto.html
+static.245.90.201.195.clients.your-server.de
+0 1 1 4848 1 1523643096
+/
+177-248-223-73-cable.cybercable.net.mx
+0 19 18 101218 1 1523370256
+/
+104.131.178.24
+0 1 1 0 1 1522747914
+/
+google-proxy-66-249-85-14.google.com
+0 7 7 52104 0 0
+-
+crawl-66-249-69-50.googlebot.com
+0 2 0 497 0 0
+-
+40.77.179.17
+0 3 3 73409 0 0
+-
+msnbot-157-55-39-59.search.msn.com
+0 2 2 9335 2 1524037161
+/
+173.252.98.112
+0 2 2 10308 0 0
+-
+173.252.98.113
+0 2 2 36787 0 0
+-
+crawl-66-249-79-38.googlebot.com
+0 1 1 4848 1 1523229488
+/
+173.252.98.115
+0 2 2 27588 0 0
+-
+173.252.98.116
+0 11 10 106436 1 1524121218
+/
+173.252.98.117
+0 2 2 9554 0 0
+-
+173.252.98.118
+0 6 6 30363 0 0
+-
+173.252.98.119
+0 2 2 27330 0 0
+-
+159.203.127.89
+0 12 11 51219 1 1522860829
+/contacto.html
+dsl-187-139-70-133-dyn.prod-infinitum.com.mx
+0 32 32 223368 4 1523973183
+/
+crawl-66-249-65-220.googlebot.com
+0 4 4 19392 4 1523771274
+/
+msnbot-40-77-167-125.search.msn.com
+0 1 1 9501 0 0
+-
+msnbot-131-253-25-143.search.msn.com
+0 1 1 44 0 0
+-
+sogouspider-220-181-125-82.crawl.sogou.com
+0 20 0 4970 10 1524114034
+/
+dsl-189-232-250-12-dyn.prod-infinitum.com.mx
+0 14 12 100816 1 1523959048
+/productosyservicios.html
+104-237-242-140-host.colocrossing.com
+0 1 1 4848 1 1524145863
+/
+138.197.111.105
+0 1 1 4848 1 1522869705
+/
+34.189-204-159.bestel.com.mx
+0 1 1 9501 0 0
+-
+148.228.152.3
+0 1 1 10248 0 0
+-
+66.220.156.54
+0 1 1 27286 0 0
+-
+66.220.156.55
+0 3 3 64073 0 0
+-
+66.220.156.57
+0 1 1 9501 0 0
+-
+dsl-189-180-76-50-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1522769758
+/
+66.220.156.58
+0 1 1 9501 0 0
+-
+66.220.156.59
+0 2 2 36787 0 0
+-
+msnbot-131-253-25-152.search.msn.com
+0 1 1 9501 0 0
+-
+dsl-201-146-32-74-dyn.prod-infinitum.com.mx
+0 1 1 15804 0 0
+-
+40.77.179.36
+0 1 1 807 0 0
+-
+msnbot-157-55-39-37.search.msn.com
+0 1 1 9501 0 0
+-
+c-69-247-174-53.hsd1.mo.comcast.net
+0 18 18 100721 1 1523564189
+/
+653256hfc244.tampabay.res.rr.com
+0 33 32 284780 1 1523316639
+/
+msnbot-207-46-13-71.search.msn.com
+0 4 4 17246 2 1523412364
+/
+189-209-29-135.static.axtel.net
+0 8 8 55842 1 1523637767
+/
+google-proxy-66-102-6-16.google.com
+0 58 55 487803 4 1524183900
+/quienessomos.html
+177-249-214-172-cable.cybercable.net.mx
+0 8 8 55842 1 1522759076
+/
+fixed-187-190-161-165.totalplay.net
+0 8 8 55842 1 1523553797
+/
+17.110.165.9
+0 1 1 4848 1 1523599840
+/
+148.64.56.66
+0 3 2 10193 1 1522783060
+/
+189.202.87.161.cable.dyn.cableonline.com.mx
+0 8 8 55842 1 1523016216
+/
+msnbot-131-253-25-161.search.msn.com
+0 3 3 9147 0 0
+-
+138.197.111.120
+0 1 1 4848 1 1523227139
+/
+dsl-187-214-80-74-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1524045521
+/
+crawl-66-249-79-42.googlebot.com
+0 1 0 497 0 0
+-
+191.116.55.177
+0 1 1 9501 0 0
+-
+dsl-189-166-188-112-dyn.prod-infinitum.com.mx
+0 11 10 45376 0 0
+-
+167.99.70.68
+0 1 0 497 0 0
+-
+dsl-187-201-107-51-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1523812162
+/
+host-1-26-66.hotlink.com.br
+0 2 0 994 1 1523786659
+-
+msnbot-131-253-27-136.search.msn.com
+0 1 1 17789 0 0
+-
+msnbot-207-46-13-2.search.msn.com
+0 10 4 20275 1 1524071395
+/
+40.77.179.51
+0 2 2 346 0 0
+-
+40.77.179.53
+0 2 2 9069 0 0
+-
+msnbot-131-253-25-130.search.msn.com
+0 2 2 43273 0 0
+-
+dsl-189-168-89-68-dyn.prod-infinitum.com.mx
+0 1 1 10248 0 0
+-
+8.28.16.254
+0 4 4 18302 2 1523017331
+/contacto.html
+201-130-204-26-cable.cybercable.net.mx
+0 8 8 55842 1 1523014419
+/
+msnbot-157-55-39-15.search.msn.com
+0 5 0 2485 0 0
+-
+m10253.contaboserver.net
+0 1 1 4848 1 1524164991
+/
+louie.learnix.com
+0 33 27 194645 1 1523557047
+/
+dh10.cs.nexin.it
+0 1 0 497 1 1522966696
+-
+163-172-4-153.rev.poneytelecom.eu
+0 1 1 4848 1 1523752032
+/
+177.247.219.225
+0 1 1 9501 0 0
+-
+62-4-15-41.rev.poneytelecom.eu
+0 2 0 994 0 0
+-
+98.143.148.135
+0 1 0 497 0 0
+-
+msnbot-157-55-39-138.search.msn.com
+0 20 7 40075 0 0
+-
+dsl-187-201-124-11-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523019484
+/
+ec2-54-159-115-37.compute-1.amazonaws.com
+0 1 1 4848 1 1523541964
+/
+zg-0321a-48.stretchoid.com
+0 1 1 4848 1 1523947431
+/
+216.244.66.231
+0 2 1 4984 1 1522563284
+/productosyservicios.html
+40.77.179.68
+0 1 1 78 0 0
+-
+dsl-189-163-60-21-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523458149
+/
+211-23-154-138.hinet-ip.hinet.net
+0 8 8 38784 8 1524013922
+/
+ecs-114-115-190-4.compute.hwclouds-dns.com
+0 2 1 5345 1 1523662629
+/
+nugura.cs.usyd.edu.au
+0 6 6 29088 5 1523425475
+/
+190-204-148-21.dyn.dsl.cantv.net
+0 13 12 100319 1 1524083243
+/productosyservicios.html
+msnbot-157-55-39-64.search.msn.com
+0 2 2 34340 0 0
+-
+crawl1.bl.semrush.com
+0 1 1 4119 1 1522632599
+/contacto.html
+60.191.38.77
+0 2 1 5345 1 1524094952
+/
+60.191.38.78
+0 2 2 9696 2 1522573216
+/
+27.115.124.2
+0 11 11 67366 1 1523051360
+/
+40.77.179.77
+0 2 2 2812 0 0
+-
+40.77.179.78
+0 3 3 241 0 0
+-
+216.244.66.249
+0 8 4 24516 4 1523863918
+/english.html
+msnbot-157-55-39-33.search.msn.com
+0 3 0 1491 0 0
+-
+google-proxy-66-249-88-3.google.com
+0 3 2 14209 0 0
+-
+msnbot-157-55-39-73.search.msn.com
+0 1 0 497 0 0
+-
+fixed-187-190-161-180.totalplay.net
+0 2 2 8224 1 1524061210
+/
+180.97.106.39
+0 1 0 497 1 1524058126
+-
+google-proxy-66-102-8-208.google.com
+0 24 23 85877 2 1523896046
+/
+159.65.36.91
+0 8 6 28559 1 1522686490
+/productosyservicios.html
+msnbot-157-55-39-156.search.msn.com
+0 2 2 9696 2 1522720617
+/
+msnbot-199-30-25-168.search.msn.com
+0 1 1 44 0 0
+-
+222.178.10.230
+0 1 1 4848 1 1522968396
+/
+138.197.96.212
+0 1 1 4848 1 1523819742
+/
+40.77.179.210
+0 1 1 44 0 0
+-
+40.77.179.211
+0 2 2 12203 0 0
+-
+crawl-66-249-69-206.googlebot.com
+0 25 12 51095 7 1524143924
+/
+crawl-66-249-79-86.googlebot.com
+0 2 2 6078 0 0
+-
+google-proxy-66-249-88-6.google.com
+0 6 6 37942 0 0
+-
+crawltxt5.bl.semrush.com
+0 10 0 4970 0 0
+-
+101.254.149.226
+0 1 0 497 1 1523771246
+-
+173.211.125.92.rdns.colocationamerica.com
+0 1 1 4848 1 1523520178
+/
+fixed-187-189-151-25.totalplay.net
+0 8 8 55842 1 1522840658
+/
+smtp.ttml.co.in
+0 2 2 9696 2 1522907045
+/
+dsl-187-192-202-190-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523454134
+/
+google-proxy-66-102-6-178.google.com
+0 13 13 127646 0 0
+-
+fixed-187-188-48-59.totalplay.net
+0 4 4 41326 0 0
+-
+crawl-66-249-65-134.googlebot.com
+0 6 4 16094 2 1522728809
+/
+static.46.75.251.148.clients.your-server.de
+0 1 1 5632 1 1522585683
+/english.html
+msnbot-199-30-24-134.search.msn.com
+0 1 1 78 0 0
+-
+40.77.179.99
+0 3 3 43351 0 0
+-
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 1 4848 1 1523351049
+/
+google-proxy-66-249-88-9.google.com
+0 4 4 48168 1 1522936458
+/productosyservicios.html
+185.222.210.29
+0 2 0 994 2 1523884802
+/
+msnbot-157-55-39-11.search.msn.com
+0 2 2 22586 0 0
+-
+msnbot-157-55-39-51.search.msn.com
+0 1 0 497 0 0
+-
+170246114132.ip84.static.mediacommerce.com.co
+0 1 1 10248 0 0
+-
+host86-128-27-39.range86-128.btcentralplus.com
+0 1 0 0 0 0
+-
+76.33.229.35.bc.googleusercontent.com
+0 12 10 46428 1 1523980963
+/
+ec2-34-212-17-2.us-west-2.compute.amazonaws.com
+0 1 1 4848 1 1523568022
+/
+40.107.218.40
+0 1 1 27286 0 0
+-
+40.107.218.41
+0 5 5 57535 1 1524055983
+/
+30.red-2-139-250.staticip.rima-tde.net
+0 1 1 10248 0 0
+-
+zg-0324a-7.stretchoid.com
+0 1 1 4848 1 1523854351
+/
+customer-gdl-81-219.megared.net.mx
+0 8 8 55842 1 1523209543
+/
+customer-gdl-71-7.megared.net.mx
+0 1 0 0 1 1523918683
+/contacto.html
+101.24.118.37
+0 1 0 497 1 1524078519
+-
+195.22.127.231
+0 5 0 2485 0 0
+-
+222.92.8.89
+0 1 0 497 1 1523185054
+/
+msnbot-157-55-39-103.search.msn.com
+0 7 3 17464 0 0
+-
+msnbot-131-253-27-110.search.msn.com
+0 2 2 21165 0 0
+-
+msnbot-40-77-167-5.search.msn.com
+0 1 1 3631 1 1523370536
+/quienessomos.html
+wimax-cpe-189-205-43-239.cdgen.static.axtel.net
+0 8 8 55842 1 1522844814
+/
+tokage.me
+0 4 4 14544 1 1523382812
+/
+crawl-66-249-69-210.googlebot.com
+0 25 13 69155 11 1524140244
+/
+23-251-206-26.static-ip.telepacific.net
+0 12 12 99822 1 1522694038
+/productosyservicios.html
+customer-gdl-192-162.megared.net.mx
+0 8 8 55842 1 1523493024
+/
+40.77.179.245
+0 1 1 3389 0 0
+-
+dsl-189-181-231-139-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1524073724
+/
+178.73.215.171
+0 3 3 14544 3 1523798268
+/
+40.77.178.205
+0 1 1 17789 0 0
+-
+40.107.218.58
+0 4 4 9709 0 0
+-
+ns3077225.ip-147-135-137.eu
+0 1 1 4848 1 1522879378
+/
+185.165.29.146
+0 2 0 994 2 1523252614
+-
+5.188.203.40
+0 25 0 12425 0 0
+-
+wimax-cpe-189-208-216-200.mtyxl.static.axtel.net
+0 8 8 55842 1 1523300576
+/
+msnbot-131-253-25-159.search.msn.com
+0 2 2 17867 0 0
+-
+69.171.251.16
+0 1 1 3389 0 0
+-
+msnbot-157-55-39-112.search.msn.com
+0 2 2 13620 1 1522805082
+/contacto.html
+msnbot-157-55-39-253.search.msn.com
+0 2 2 6333 1 1524063990
+/quienessomos.html
+wimax-me-nte-189-205-81-234.mexdf.static.axtel.net
+0 8 8 55842 1 1523710991
+/
+173.252.123.134
+0 1 1 1837 0 0
+-
+dsl-187-149-197-17-dyn.prod-infinitum.com.mx
+0 1 1 15804 0 0
+-
+40.77.178.213
+0 2 2 188 0 0
+-
+40.107.218.69
+0 3 3 3057 0 0
+-
+msnbot-207-46-13-78.search.msn.com
+0 4 4 17246 2 1523878161
+/
+msnbot-131-253-27-44.search.msn.com
+0 2 2 17833 0 0
+-
+dsl-189-168-219-183-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523549128
+/
+crawltxt1.bl.semrush.com
+0 6 0 2982 0 0
+-
+38.100.21.78
+0 10 10 39692 1 1523820125
+/
+sh-phx-us-gp1-wk115.internet-census.org
+0 3 1 5842 1 1522677710
+/
+ns368221.ip-94-23-31.eu
+0 4 0 1988 0 0
+-
+104.192.74.30
+0 13 12 55627 1 1522905921
+/contacto.html
+173.252.123.140
+0 1 1 4848 1 1523098545
+/
+customer-mor-149-191.megared.net.mx
+0 14 13 104438 1 1523109329
+/contacto.html
+msnbot-157-55-39-222.search.msn.com
+0 1 1 22184 0 0
+-
+111.231.146.163
+0 1 0 497 1 1522779814
+/
+msnbot-157-55-39-161.search.msn.com
+0 3 2 9566 0 0
+-
+40.107.218.76
+0 2 2 380 0 0
+-
+40.77.178.226
+0 2 2 17867 0 0
+-
+google-proxy-66-249-88-82.google.com
+0 14 14 139746 2 1523289371
+/contacto.html
+crawl-66-249-70-22.googlebot.com
+0 5 4 18417 3 1524194298
+/
+crawl20.lp.007ac9.net
+0 14 12 56124 2 1524192958
+/contacto.html
+google-proxy-66-102-9-12.google.com
+0 11 11 63996 1 1523214821
+/
+msnbot-207-46-13-136.search.msn.com
+0 8 4 21598 1 1523512946
+/
+static.44.54.251.148.clients.your-server.de
+0 1 1 5632 1 1523633740
+/english.html
+40.107.218.85
+0 3 3 2754 0 0
+-
+155.232.191.208
+0 1 0 497 0 0
+-
+customer-cgn-tolu-117-170.megared.net.mx
+0 20 20 108945 1 1523924962
+/
+40.77.178.235
+0 1 1 43220 0 0
+-
+static-ip-cr190147169154.cable.net.co
+0 4 0 1988 2 1524006228
+-
+40.77.178.238
+0 1 1 2903 0 0
+-
+msnbot-207-46-13-56.search.msn.com
+0 1 1 15804 0 0
+-
+ns344328.ip-94-23-33.eu
+0 10 0 4970 0 0
+-
+anon-62-213.vpn.ipredator.se
+0 2 0 994 0 0
+-
+google-proxy-66-102-9-15.google.com
+0 5 4 28207 0 0
+-
+rate-limited-proxy-66-249-89-142.google.com
+0 9 9 59213 1 1523097795
+/
+dsl-189-163-177-40-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1524159453
+/
+dsl-189-141-204-46-dyn.prod-infinitum.com.mx
+0 27 26 157060 2 1522935093
+/
+40.77.178.240
+0 1 1 2702 0 0
+-
+msnbot-199-30-25-111.search.msn.com
+0 1 1 78 0 0
+-
+msnbot-40-77-167-1.search.msn.com
+0 1 1 5693 0 0
+-
+bfb5ce68.virtua.com.br
+0 6 1 7333 1 1523143215
+/
+40.107.218.94
+0 1 0 497 0 0
+-
+40.77.178.245
+0 1 1 2702 0 0
+-
+40.77.178.7
+0 3 3 17911 0 0
+-
+fixed-187-189-148-45.totalplay.net
+0 14 13 104438 1 1522884534
+/contacto.html
+dsl-189-144-46-105-dyn.prod-infinitum.com.mx
+0 12 12 99822 1 1523488334
+/productosyservicios.html
+baiduspider-180-76-15-34.crawl.baidu.com
+0 2 1 5345 1 1522778032
+/
+ubuntu16202198.aspadmin.net
+0 2 0 994 2 1523617782
+-
+google-proxy-66-102-9-18.google.com
+0 5 5 17239 1 1523214829
+/
+ec2-54-165-59-7.compute-1.amazonaws.com
+0 12 7 35682 6 1524035664
+/english.html
+msnbot-207-46-13-114.search.msn.com
+0 1 1 13085 0 0
+-
+pc201166188215.optele.net
+0 7 7 12212 1 1523040162
+/
+ferrycom.mx
+0 8 8 55842 1 1523267108
+/
+msnbot-207-46-13-154.search.msn.com
+0 6 6 27871 5 1523511829
+/
+dsl-189-251-111-131-dyn.prod-infinitum.com.mx
+0 1 1 4211 0 0
+-
+ec2-34-226-206-110.compute-1.amazonaws.com
+0 1 1 4848 1 1522904407
+/
+40.77.177.217
+0 1 1 78 0 0
+-
+dsl-189-142-212-72-dyn.prod-infinitum.com.mx
+0 14 13 104438 1 1522753358
+/contacto.html
+173.252.123.184
+0 1 1 9501 0 0
+-
+static.customer-201-144-21-98.uninet-ide.com.mx
+0 25 24 149685 2 1523621591
+/contacto.html
+security.lightspeedsystems.com
+0 6 6 90829 0 0
+-
+crawl-66-249-65-138.googlebot.com
+0 3 2 10193 2 1522721290
+/
+msnbot-40-77-167-186.search.msn.com
+0 3 3 12445 0 0
+-
+40.77.177.223
+0 4 4 4304 0 0
+-
+40.77.177.227
+0 3 3 27474 0 0
+-
+customer-gdl-127-227.megared.net.mx
+0 8 8 55842 1 1522862199
+/
+78.129.250.17
+0 18 16 69970 2 1523977739
+/quienessomos.html
+customer-cgn-leon-49-133.megared.net.mx
+0 1 1 4211 0 0
+-
+google-proxy-66-102-7-136.google.com
+0 38 35 259259 3 1522760089
+/
+187.179.116.89
+0 1 1 6407 0 0
+-
+95.218.128.245
+0 1 0 497 1 1522749679
+-
+212.92.127.26
+0 2 1 5345 2 1523913126
+/
+dsl-187-144-171-169-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523448938
+/
+crawl09.lp.007ac9.net
+0 7 6 28062 1 1523503355
+/contacto.html
+customer-gdl-79-97.megared.net.mx
+0 19 18 101218 1 1524091131
+/
+196.43.234.193
+0 1 0 497 1 1522573461
+-
+customer-gdl-139-228.megared.net.mx
+0 8 8 55842 1 1523472475
+/
+seatexres.rad1.aamranetworks.com
+0 1 0 497 1 1522664817
+-
+123.125.125.81
+0 1 0 497 0 0
+-
+dsl-189-140-245-34.prod-infinitum.com.mx
+0 8 8 55842 1 1523356075
+/
+69.63.188.213
+0 1 1 4848 1 1523756786
+/
+dsl-189-181-93-83-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523471662
+/
+159.203.96.245
+0 13 12 56912 1 1523615464
+/contacto.html
+msnbot-40-77-167-124.search.msn.com
+0 14 3 19384 1 1523334678
+/
+msnbot-65-55-213-27.search.msn.com
+0 4 4 31074 0 0
+-
+msnbot-157-55-39-27.search.msn.com
+0 1 0 497 0 0
+-
+159.89.114.194
+0 2 2 0 1 1523570951
+/
+google-proxy-66-249-84-50.google.com
+0 4 4 20163 0 0
+-
+131.178.30.5
+0 2 2 20496 0 0
+-
+mail.noriega-bts.com.mx
+0 1 1 10248 0 0
+-
+5.188.9.80
+0 50 0 24850 0 0
+-
+customer-gdl-47-242.megared.net.mx
+0 25 24 149685 1 1522870335
+/contacto.html
+184.94.240.92
+0 2 2 10480 1 1523101120
+/english.html
+mail.dru.kiev.ua
+0 2 0 994 1 1522938617
+-
+190.14.132.115
+0 1 1 9501 0 0
+-
+boron090.a.ahrefs.com
+0 6 0 2982 0 0
+-
+c83-254-24-46.bredband.comhem.se
+0 1 1 4848 1 1523775809
+/
+104.236.44.80
+0 1 1 0 0 0
+-
+40.77.177.251
+0 4 4 6077 0 0
+-
+dsl-187-201-77-97-dyn.prod-infinitum.com.mx
+0 13 12 100319 1 1522662821
+/productosyservicios.html
+40.77.177.252
+0 1 1 43220 0 0
+-
+msnbot-207-46-13-150.search.msn.com
+0 2 2 20291 1 1523511829
+/productosyservicios.html
+shared83.accountservergroup.com
+0 6 0 2982 0 0
+-
+ec2-34-214-138-237.us-west-2.compute.amazonaws.com
+0 1 1 4848 1 1523033893
+/
+researchscan303.eecs.umich.edu
+0 1 1 4848 1 1522889231
+/
+cpe-72-190-113-241.tx.res.rr.com
+0 18 18 100721 1 1522709882
+/
+dsl-189-252-19-14-dyn.prod-infinitum.com.mx
+0 14 13 104438 1 1522768322
+/contacto.html
+static.226.217.111.190.cps.com.ar
+0 1 1 9501 0 0
+-
+crawl-66-249-69-157.googlebot.com
+0 9 8 37809 7 1524134444
+/
+dsl-187-151-21-231-dyn.prod-infinitum.com.mx
+0 2 2 8422 0 0
+-
+139.59.112.169
+0 5 0 2485 0 0
+-
+31.131.249.34
+0 1 0 497 1 1523073006
+-
+customer-leon-160-238.megared.net.mx
+0 2 2 26052 0 0
+-
+dsl-187-144-215-92-dyn.prod-infinitum.com.mx
+0 27 26 188041 2 1523642191
+/productosyservicios.html
+msnbot-131-253-27-2.search.msn.com
+0 1 1 78 0 0
+-
+host43.181-15-198.telecom.net.ar
+0 19 18 101218 1 1523897850
+/
+google-proxy-66-249-85-13.google.com
+0 10 9 69653 1 1523145033
+/productosyservicios.html
+fixed-187-190-160-58.totalplay.net
+0 26 25 154533 1 1523104499
+/contacto.html
+ip90.ip-54-36-149.eu
+0 1 1 4848 1 1523802757
+/
+201.175.159.251
+0 1 1 4487 1 1523561998
+/productosyservicios.html
+crawl-66-249-69-84.googlebot.com
+0 1 1 4848 1 1523576243
+/
+31.184.193.154
+0 9 9 43632 9 1524236866
+/
+5-255-250-144.spider.yandex.com
+0 38 12 68517 12 1524192813
+/productosyservicios.html
+fixed-187-189-248-68.totalplay.net
+0 8 8 55842 1 1523386794
+/
+google-proxy-66-249-84-230.google.com
+0 3 2 5028 1 1522980556
+/productosyservicios.html
+msnbot-157-55-39-238.search.msn.com
+0 1 1 4487 1 1522825863
+/productosyservicios.html
+fixed-187-188-63-169.totalplay.net
+0 19 18 101218 1 1523136715
+/
+crawl-66-249-73-148.googlebot.com
+0 7 6 29585 6 1522736761
+/
+183.80.194.31
+0 1 1 4848 1 1522652468
+/
+crawl-66-249-66-134.googlebot.com
+0 2 0 994 1 1523439830
+-
+5.45.75.6
+0 1 1 4848 1 1523566901
+/
+zz2012429177b6f89602.userreverse.dion.ne.jp
+0 18 18 100721 1 1523711122
+/
+msnbot-157-55-39-63.search.msn.com
+0 1 1 4487 1 1523574497
+/productosyservicios.html
+google-proxy-66-249-84-233.google.com
+0 4 4 34362 0 0
+-
+msnbot-157-55-39-207.search.msn.com
+0 1 1 19904 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u45f1dcfce1304a6c9cdf0765b61a4633u-digitalocean-2gb
+0 1 1 4848 1 1522870170
+/
+dsl-189-226-45-127-dyn.prod-infinitum.com.mx
+0 13 12 100319 1 1522923002
+/productosyservicios.html
+ec2-52-36-125-174.us-west-2.compute.amazonaws.com
+0 9 7 33407 1 1522678594
+/productosyservicios.html
+dsl-189-234-37-210-dyn.prod-infinitum.com.mx
+0 13 12 100319 1 1523628953
+/productosyservicios.html
+144.29.129.12
+0 19 18 101218 1 1522854876
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 4848 1 1524261155
+/
+139.129.130.253
+0 16 15 73217 1 1523999031
+/
+dsl-187-201-48-238-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1522875929
+/
+google-proxy-66-249-84-236.google.com
+0 7 7 65048 1 1522980599
+/contacto.html
+187.175.11.63
+0 1 1 15804 0 0
+-
+ec2-54-188-59-66.us-west-2.compute.amazonaws.com
+0 1 1 4487 1 1522870130
+/productosyservicios.html
+pc-228-245.cet01.ipn.mx
+0 1 1 15804 0 0
+-
+msnbot-199-30-24-164.search.msn.com
+0 1 1 17789 0 0
+-
+baiduspider-180-76-15-140.crawl.baidu.com
+0 1 0 497 0 0
+-
+li522-36.members.linode.com
+0 1 1 4848 1 1524052570
+/
+190.106.196.208
+0 1 1 4211 0 0
+-
+c-67-160-228-49.hsd1.ca.comcast.net
+0 18 18 100721 1 1523198742
+/
+crawltxt4.bl.semrush.com
+0 8 0 3976 0 0
+-
+dsl-189-242-203-127-dyn.prod-infinitum.com.mx
+0 14 13 104438 1 1522968883
+/contacto.html
+msnbot-157-55-39-81.search.msn.com
+0 1 1 9501 0 0
+-
+google-proxy-66-102-6-18.google.com
+0 74 70 600464 6 1523883041
+/productosyservicios.html
+crawl-66-249-73-152.googlebot.com
+0 4 3 15041 2 1522751049
+/
+38.124.174.222
+0 8 8 55842 1 1522953100
+/
+msnbot-157-55-39-225.search.msn.com
+0 3 3 12398 2 1523342876
+/
+msnbot-157-55-39-124.search.msn.com
+0 1 1 9501 0 0
+-
+100-43-85-201.spider.yandex.com
+0 2 0 994 0 0
+-
+msnbot-157-55-39-164.search.msn.com
+0 1 1 4848 1 1523152039
+/
+108.179.194.151
+0 3 3 14544 1 1524215079
+/
+msnbot-40-77-167-14.search.msn.com
+0 1 1 4848 1 1523632790
+/
+93-158-161-100.spider.yandex.com
+0 18 8 43754 8 1524174859
+/
+static.83.71.76.144.clients.your-server.de
+0 1 1 3631 1 1523464158
+/quienessomos.html
+crawl-66-249-64-78.googlebot.com
+0 7 5 21616 3 1524180904
+/
+scan-72.security.ipip.net
+0 7 7 33936 7 1524262689
+/
+msnbot-157-55-39-90.search.msn.com
+0 1 1 4848 1 1523610929
+/
+46-118-155-165.broadband.kyivstar.net
+0 18 4 26350 2 1523647851
+/
+msnbot-157-55-39-6.search.msn.com
+0 1 0 497 0 0
+-
+ip108.ip-54-36-148.eu
+0 1 1 4119 1 1522705221
+/contacto.html
+msnbot-65-55-210-7.search.msn.com
+0 6 6 36481 0 0
+-
+no-data
+0 1 0 497 1 1522918939
+-
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 1 4848 1 1522907023
+/
+google-proxy-66-249-88-78.google.com
+0 10 9 38846 1 1523214821
+/
+crawl-66-249-79-14.googlebot.com
+0 1 1 4848 1 1523266800
+/
+185.22.152.136
+0 1 1 4848 1 1523650769
+/
+msnbot-207-46-13-108.search.msn.com
+0 1 1 22184 0 0
+-
+ns.utj.edu.mx
+0 19 18 101218 1 1523907444
+/
+msnbot-157-55-39-142.search.msn.com
+0 1 1 4848 1 1524165474
+/
+google-proxy-66-249-93-54.google.com
+0 1 0 497 0 0
+-
+b.gsi06.ru
+0 1 0 497 1 1523453747
+/
+dsl-189-178-1-160-dyn.prod-infinitum.com.mx
+0 1 1 10248 0 0
+-
+msnbot-207-46-13-28.search.msn.com
+0 3 3 42475 1 1522910599
+/productosyservicios.html
+186-88-100-22.genericrev.cantv.net
+0 2 2 26052 0 0
+-
+dsl-187-212-247-92-dyn.prod-infinitum.com.mx
+0 41 37 254620 1 1523351759
+/contacto.html
+malware-hunter.census.shodan.io
+0 1 0 497 1 1523320749
+/
+ip249.ip-54-36-148.eu
+0 1 1 9501 0 0
+-
+ec2-34-207-121-75.compute-1.amazonaws.com
+0 1 1 4848 1 1524166486
+/
+google-proxy-66-102-6-174.google.com
+0 6 5 20024 0 0
+-
+jobqueue-listener.jobqueue.netcraft.com-u6635e06598e241cd8c57c422e242bb28u-digitalocean
+0 1 1 0 0 0
+-
+5.34.184.243
+0 1 1 4848 1 1522923188
+/
+crawl-66-249-64-82.googlebot.com
+0 6 3 16035 3 1523173727
+/
+bb-mvs-189-205-208-60.mexdf.static.axtel.net
+0 407 243 7615504 4 1524098792
+/
+msnbot-207-46-13-77.search.msn.com
+0 4 4 27969 2 1523598543
+/
+187-162-205-154.static.axtel.net
+0 36 35 328122 1 1523889886
+/quienessomos.html
+baiduspider-180-76-15-11.crawl.baidu.com
+0 1 0 497 0 0
+-
+ns546531.ip-158-69-252.net
+0 1 1 4848 1 1523616737
+/
+client-201.240.63.76.speedy.net.pe
+0 1 1 12820 0 0
+-
+ec2-54-207-33-42.sa-east-1.compute.amazonaws.com
+0 1 1 4848 1 1524032159
+/
+customer-cob-7-56.megared.net.mx
+0 1 1 4211 0 0
+-
+researchscan3.comsys.rwth-aachen.de
+0 12 6 32070 1 1523313026
+-
+40.77.178.16
+0 2 2 12890 0 0
+-
+msnbot-40-77-167-10.search.msn.com
+0 6 4 19759 2 1523702760
+/
+crawl-66-249-69-88.googlebot.com
+0 2 1 3199 0 0
+-
+fixed-189-203-218-182.totalplay.net
+0 13 12 100319 1 1523987708
+/productosyservicios.html
+probe15.onyphe.io
+0 1 1 4848 1 1522818767
+/
+host219-58-237-212.serverdedicati.aruba.it
+0 1 0 497 1 1522692736
+-
+ip48.ip-54-36-148.eu
+0 1 1 4848 1 1522998335
+/
+40.77.170.0
+0 1 1 9501 0 0
+-
+dsl-187-214-46-83-dyn.prod-infinitum.com.mx
+0 1 0 497 0 0
+-
+177-248-204-213-cable.cybercable.net.mx
+0 28 27 192889 1 1523485236
+/
+164.52.24.140
+0 9 3 17526 3 1523854335
+/
+crawl-66-249-66-138.googlebot.com
+0 3 0 994 0 0
+-
+msnbot-199-30-25-141.search.msn.com
+0 1 1 78 0 0
+-
+customer-cgn-gdl-58-205.megared.net.mx
+0 8 8 55842 1 1523703867
+/
+6c.23.39a9.ip4.static.sl-reverse.com
+0 8 8 55842 1 1522665279
+/
+host-177-232-89-211.static.metrored.net.mx
+0 1 1 9501 0 0
+-
+40.77.178.28
+0 1 1 302 0 0
+-
+189.223.194.156.dsl.dyn.telnor.net
+0 2 0 497 1 1522600087
+/productosyservicios.html
+msnbot-65-55-210-91.search.msn.com
+0 1 1 44 0 0
+-
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 4848 1 1523882837
+/
+104.129.206.67
+0 1 1 10248 0 0
+-
+186.35.222.49
+0 1 0 497 0 0
+-
+174-30-189-200.tcso.qwest.net
+0 1 1 10248 0 0
+-
+45.55.244.134
+0 11 10 45526 1 1522608223
+/contacto.html
+customer-gdl-143-184.megared.net.mx
+0 1 1 6407 0 0
+-
+msnbot-207-46-13-184.search.msn.com
+0 10 10 68772 8 1522683982
+/
+40.77.178.37
+0 1 1 2903 0 0
+-
+msnbot-207-46-13-24.search.msn.com
+0 2 2 8479 2 1522870373
+/quienessomos.html
+crawl7.bl.semrush.com
+0 1 1 5632 1 1523111496
+/english.html
+138-204-140-122.inforbarra.com.br
+0 1 1 9501 0 0
+-
+ec2-13-57-29-114.us-west-1.compute.amazonaws.com
+0 1 1 4848 1 1523222124
+/
+189-211-186-234.static.axtel.net
+0 16 16 111684 1 1523464100
+/
+47.254.42.83
+0 1 0 497 1 1522994832
+-
+146.212.167.190.l.sta.codetel.net.do
+0 1 1 9501 0 0
+-
+46.243.189.99
+0 12 0 5964 1 1522948735
+-
+189-211-10-251.static.axtel.net
+0 8 8 55842 1 1523378453
+/
+dsl-187-152-29-14-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1522854626
+/
+ns4007925.ip-192-95-31.net
+0 1 1 4848 1 1522967494
+/
+zg-0324a-26.stretchoid.com
+0 1 1 4848 1 1523331184
+/
+msnbot-207-46-13-113.search.msn.com
+0 1 1 4487 1 1523181305
+/productosyservicios.html
+static-189-206-69-205.alestra.net.mx
+0 1 1 4211 0 0
+-
+dsl-187-192-176-145-dyn.prod-infinitum.com.mx
+0 18 18 100721 1 1523905078
+/
+google-proxy-66-249-84-46.google.com
+0 5 4 38714 1 1524105120
+/productosyservicios.html
+dsl-187-144-254-154-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1523908321
+/
+180.149.240.54
+0 8 0 3976 1 1523550739
+-
+175.124.141.215
+0 1 0 497 1 1522888328
+-
+static.111.61.9.5.clients.your-server.de
+0 2 1 5345 1 1523483733
+/
+40.77.178.49
+0 2 2 885 0 0
+-
+customer-187-157-55-243-sta.uninet-ide.com.mx
+0 13 12 100319 1 1523362911
+/productosyservicios.html
+na-200-38-67-101.static.avantel.net.mx
+0 8 8 55842 1 1523191768
+/
+msnbot-157-55-39-48.search.msn.com
+0 2 0 994 0 0
+-
+fixed-187-189-155-2.totalplay.net
+0 8 8 55842 1 1523107392
+/
+ip184.ip-54-36-148.eu
+0 1 1 4848 1 1523669349
+/
+crawl-66-249-69-48.googlebot.com
+0 3 2 8224 1 1523601826
+/
+msnbot-131-253-27-138.search.msn.com
+0 2 2 15194 0 0
+-
+fixed-187-189-11-82.totalplay.net
+0 1 1 4211 0 0
+-
+40.77.178.63
+0 1 1 3376 0 0
+-
+msnbot-207-46-13-131.search.msn.com
+0 1 1 4848 1 1522870732
+/
+40.77.178.65
+0 1 1 9501 0 0
+-
+200.23.18.142
+0 14 13 104438 1 1522852048
+/contacto.html
+ip-166-62-45-148.ip.secureserver.net
+0 2 0 88 0 0
+-
+crawl-66-249-65-218.googlebot.com
+0 4 3 15041 3 1523777302
+/
+117.50.7.159
+0 1 1 4848 1 1523990285
+/
+msnbot-207-46-13-51.search.msn.com
+0 1 1 21255 0 0
+-
+ip199.ip-54-36-148.eu
+0 1 1 4848 1 1523809870
+/
+fixed-187-189-11-93.totalplay.net
+0 19 18 101218 1 1523381183
+/
+201-130-206-148-cable.cybercable.net.mx
+0 1 1 10248 0 0
+-
+google-proxy-66-102-8-210.google.com
+0 19 19 141956 2 1523214756
+/
+dedic693.hidehost.net
+0 1 1 4848 1 1522676230
+/
+b3d70efe.virtua.com.br
+0 4 1 6339 1 1523477905
+/
+bd213af2.virtua.com.br
+0 6 1 7333 1 1523841290
+/
+zg-0324a-93.stretchoid.com
+0 1 1 4848 1 1523594374
+/
+crawl-66-249-79-84.googlebot.com
+0 1 1 4848 1 1523241851
+/
+66-111-41-250.static.sagonet.net
+0 2 0 994 0 0
+-
+dsl-189-182-148-136-dyn.prod-infinitum.com.mx
+0 27 26 188041 1 1524071450
+/productosyservicios.html
+msnbot-157-55-39-66.search.msn.com
+0 5 5 45461 4 1523588529
+/
+47.203.88.161
+0 2 0 994 2 1524143287
+/
+customer-mzt-220-79.megared.net.mx
+0 19 18 101218 1 1523541250
+/
+dsl-189-178-49-91-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1522845606
+/
+static-201-151-178-178.alestra.net.mx
+0 8 8 55842 1 1523446098
+/
+rate-limited-proxy-66-249-89-144.google.com
+0 9 9 19070 0 0
+-
+40.77.178.86
+0 2 2 9545 0 0
+-
+www.probethenet.com
+0 2 1 4848 1 1524041561
+/
+17-58-103-128.applebot.apple.com
+0 2 2 9696 2 1523748545
+/
+dsl-189-141-253-239-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523624372
+/
+loutccflow2.etn.com
+0 15 13 104935 1 1523017331
+/contacto.html
+46.229.170.197
+0 1 1 4848 1 1523972280
+/
+80.248.225.168
+0 7 6 28062 1 1523388690
+/quienessomos.html
+msnbot-157-55-39-118.search.msn.com
+0 1 0 497 0 0
+-
+msnbot-131-253-27-125.search.msn.com
+0 1 1 44 0 0
+-
+58.19.58.65
+0 1 0 497 1 1523549882
+-
+msnbot-157-55-39-158.search.msn.com
+0 1 1 6407 0 0
+-
+40.77.178.93
+0 1 1 3376 0 0
+-
+server15.info
+0 1 1 4848 1 1523393354
+/
+static.130.98.9.5.clients.your-server.de
+0 7 6 28062 1 1522768834
+/contacto.html
+118.193.223.170
+0 2 0 994 1 1523126874
+-
+178-88-15-51.rev.cloud.scaleway.com
+0 1 0 497 1 1523706171
+-
+226.static.telefonica.com.ar
+0 1 1 10248 0 0
+-
+218.69.11.166
+0 2 0 994 1 1523773030
+-
+62-210-152-248.rev.poneytelecom.eu
+0 2 2 4848 2 1523971883
+/
+27.115.124.66
+0 7 7 33355 0 0
+-
+msnbot-40-77-167-88.search.msn.com
+0 1 1 4487 1 1523333735
+/productosyservicios.html
+117.50.19.179
+0 1 1 4848 1 1523040595
+/
+209.126.136.4
+0 3 3 14544 3 1524029180
+/
+dsl-189-163-14-52-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1524135908
+/
+wsip-184-183-177-50.dc.dc.cox.net
+0 2 0 994 1 1523160912
+-
+59.57.37.8
+0 1 1 4848 1 1523756890
+/
+80.30.60.50
+0 8 8 55842 1 1522927987
+/
+msnbot-65-55-210-49.search.msn.com
+0 1 1 17789 0 0
+-
+138.197.96.40
+0 13 12 56912 1 1523336974
+/contacto.html
+researchscan351.eecs.umich.edu
+0 2 0 994 2 1523789540
+-
+crawl-66-249-69-158.googlebot.com
+0 10 8 38561 8 1524134464
+/quienessomos.html
+187-163-86-158.static.axtel.net
+0 15 13 104935 1 1524063607
+/contacto.html
+fixed-187-190-26-76.totalplay.net
+0 26 26 220942 1 1523358162
+/quienessomos.html
+msnbot-157-55-39-9.search.msn.com
+0 14 3 17912 0 0
+-
+google-proxy-66-102-7-138.google.com
+0 41 36 313301 5 1522781575
+/contacto.html
+fixed-187-188-63-159.totalplay.net
+0 8 8 55842 1 1523035346
+/
+msnbot-157-55-39-136.search.msn.com
+0 2 2 10119 2 1523106697
+/english.html
+dsl-187-172-115-42-dyn.prod-infinitum.com.mx
+0 12 12 99822 1 1522770240
+/productosyservicios.html
+185.248.100.89
+0 2 0 994 0 0
+-
+msnbot-65-55-210-58.search.msn.com
+0 1 1 44 0 0
+-
+91.187.124.185
+0 1 1 12820 0 0
+-
+107.77.245.5
+0 1 1 10248 0 0
+-
+fixed-187-189-248-159.totalplay.net
+0 16 16 111684 2 1522947078
+/
+66.66.227.35.bc.googleusercontent.com
+0 4 2 10690 1 1523979983
+/
+m2767.contaboserver.net
+0 1 1 4848 1 1522933191
+/
+bb03181c.virtua.com.br
+0 4 1 6339 1 1522630770
+/
+fixed-187-188-23-49.totalplay.net
+0 8 8 55842 1 1523284449
+/
+msnbot-40-77-167-75.search.msn.com
+0 1 1 4487 1 1524037656
+/productosyservicios.html
+dsl-189-141-206-144-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523022039
+/
+fixed-187-190-161-160.totalplay.net
+0 8 8 55842 1 1523392217
+/
+crawl-66-249-70-20.googlebot.com
+0 2 2 7550 1 1523140280
+/
+174-18-38-222.tcso.qwest.net
+0 1 1 9501 0 0
+-
+47.96.25.225
+0 2 0 994 1 1523389109
+-
+msnbot-157-55-39-114.search.msn.com
+0 1 1 4848 1 1522749303
+/
+msnbot-157-55-39-154.search.msn.com
+0 1 0 497 0 0
+-
+46.161.55.106
+0 2 0 994 2 1523393320
+/
+msnbot-157-55-39-194.search.msn.com
+0 6 6 33271 5 1522964859
+/
+msnbot-40-77-167-44.search.msn.com
+0 2 2 13620 1 1523655332
+/contacto.html
+hostby.channelnet.ie
+0 2 2 9696 2 1523671510
+/
+crawltxt3.bl.semrush.com
+0 17 0 8449 0 0
+-
+177-249-211-124-cable.cybercable.net.mx
+0 19 18 101218 1 1523096253
+/
+dsl-189-142-76-79-dyn.prod-infinitum.com.mx
+0 1 1 10248 0 0
+-
+ec2-54-67-59-131.us-west-1.compute.amazonaws.com
+0 6 6 29088 6 1524083487
+/
+customer-gdl-59-48.megared.net.mx
+0 29 19 201177 1 1522793080
+/contacto.html
+customer-lpaz-154-238.megared.net.mx
+0 1 1 10248 0 0
+-
+msnbot-131-253-27-55.search.msn.com
+0 2 2 17867 0 0
+-
+172.58.21.35
+0 14 13 104438 1 1523402495
+/contacto.html
+crawl12.bl.semrush.com
+0 2 2 9696 1 1523111531
+/
+190-207-137-187.dyn.dsl.cantv.net
+0 1 1 4211 0 0
+-
+hn.kd.ny.adsl
+0 11 11 53328 11 1524256619
+/
+107.77.111.87
+0 1 1 4211 0 0
+-
+google-proxy-66-249-85-15.google.com
+0 9 8 78881 1 1522885090
+/productosyservicios.html
+173.211.87.233.rdns.colocationamerica.com
+0 1 1 4848 1 1523130026
+/
+msnbot-207-46-13-18.search.msn.com
+0 1 1 4487 1 1523703057
+/productosyservicios.html
+fixed-187-189-208-25.totalplay.net
+0 8 8 55842 1 1523556555
+/
+crawl-66-249-69-208.googlebot.com
+0 11 3 22416 2 1522891712
+/productosyservicios.html
+crawl-66-249-79-88.googlebot.com
+0 1 0 497 0 0
+-
+msnbot-131-253-27-64.search.msn.com
+0 4 4 12560 0 0
+-
+ptr.kionetworks.com
+0 8 8 55842 1 1522672587
+/
+ip129.ip-54-36-148.eu
+0 1 1 4848 1 1523111799
+/
+216.74.106.22
+0 1 1 4848 1 1522695777
+/
+static-131-196-251-232.coeficiente.net
+0 27 26 188041 1 1523526252
+/productosyservicios.html
+msnbot-131-253-25-188.search.msn.com
+0 1 1 78 0 0
+-
+69.171.240.16
+0 9 9 25113 1 1524171702
+/
+69.171.240.17
+0 4 3 27938 0 0
+-
+crawl-66-249-65-136.googlebot.com
+0 5 4 18417 3 1522747709
+/
+152.191-100-11.etapanet.net
+0 2 1 5345 1 1523254449
+/
+150.109.39.180
+0 1 0 497 1 1524145220
+-
+40.77.179.145
+0 2 2 11338 0 0
+-
+40.77.178.106
+0 1 1 5693 0 0
+-
+40.77.179.149
+0 2 2 122 0 0
+-
+dsl-187-152-226-215-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1524162909
+/
+dsl-189-168-222-126-dyn.prod-infinitum.com.mx
+0 28 27 192160 1 1522670562
+/contacto.html
+google-proxy-66-102-6-14.google.com
+0 49 48 363354 3 1524183907
+/contacto.html
+69.171.240.20
+0 2 2 46123 0 0
+-
+69.171.240.21
+0 3 3 1991 0 0
+-
+69.171.240.22
+0 1 1 53 0 0
+-
+msnbot-207-46-13-116.search.msn.com
+0 5 5 24240 5 1523245228
+/
+msnbot-131-253-25-157.search.msn.com
+0 1 1 44 0 0
+-
+45.55.241.155
+0 13 12 56912 1 1523075781
+/contacto.html
+40.77.179.150
+0 4 4 46784 0 0
+-
+mail09.vipmail.hu
+0 1 1 4848 1 1522599455
+/
+177-249-83-152-cable.cybercable.net.mx
+0 11 10 61963 1 1523911540
+/contacto.html
+msnbot-157-55-39-251.search.msn.com
+0 2 2 13620 1 1523478646
+/contacto.html
+40.77.179.153
+0 17 17 95873 0 0
+-
+customer-cgn-tolu-103-198.megared.net.mx
+0 2 2 8422 0 0
+-
+40.77.178.112
+0 1 1 44 0 0
+-
+host22.190-137-241.telecom.net.ar
+0 1 1 4211 0 0
+-
+40.77.179.157
+0 2 2 17867 0 0
+-
+95-28-174-252.broadband.corbina.ru
+0 3 3 10926 1 1523807770
+/
+40.77.179.159
+0 4 4 5413 0 0
+-
+189-211-220-235.static.axtel.net
+0 8 8 55842 1 1523987783
+/
+103.205.231.200
+0 2 0 994 1 1523166747
+-
+baiduspider-180-76-15-25.crawl.baidu.com
+0 2 1 5345 1 1523979691
+/
+static.73.38.76.144.clients.your-server.de
+0 2 1 5345 1 1523404237
+/
+msnbot-131-253-25-227.search.msn.com
+0 3 3 17911 0 0
+-
+40.77.179.161
+0 2 2 121 0 0
+-
+40.77.179.164
+0 1 1 9501 0 0
+-
+186.114.41.22
+0 1 1 9501 0 0
+-
+40.77.179.165
+0 3 3 27665 0 0
+-
+40.77.178.124
+0 1 1 44 0 0
+-
+florenz177.server4you.de
+0 1 0 497 1 1523621001
+-
+dolabuy4.example.com
+0 4 0 1988 0 0
+-
+40.77.178.128
+0 4 4 29219 0 0
+-
+190.86.95.190
+0 1 1 9501 0 0
+-
+msnbot-207-46-13-45.search.msn.com
+0 2 0 994 0 0
+-
+dsl-187-149-64-18-dyn.prod-infinitum.com.mx
+0 14 13 104438 1 1524143840
+/contacto.html
+187-162-210-179.static.axtel.net
+0 19 18 101218 1 1524056580
+/
+msnbot-131-253-25-135.search.msn.com
+0 3 3 3510 0 0
+-
+185.4.65.44
+0 1 1 4848 1 1523729973
+/
+static.195.80.4.46.clients.your-server.de
+0 2 1 5345 1 1522884132
+/
+dsl-187-144-188-172-dyn.prod-infinitum.com.mx
+0 19 18 101218 1 1523887708
+/
+138.197.69.240
+0 12 11 51219 1 1523876371
+/contacto.html
+110.19.181.193
+0 1 1 4848 1 1523547486
+/
+187-162-83-122.static.axtel.net
+0 32 30 197627 1 1522961854
+/contacto.html
+125.212.217.214
+0 5 1 6836 1 1522902963
+/
+customer-lmm-124-50.megared.net.mx
+0 20 19 201177 1 1523112087
+/contacto.html
+msnbot-207-46-13-143.search.msn.com
+0 2 2 8974 2 1523895166
+/productosyservicios.html
+40.77.178.141
+0 1 1 2903 0 0
+-
+91.121.57.120
+0 10 2 13672 3 1523073616
+-
+li1170-25.members.linode.com
+0 1 0 497 0 0
+-
+40.77.177.6
+0 4 4 2302 0 0
+-
+185.18.169.74
+0 2 0 994 1 1523625353
+-
+gateway.grupositel.com.mx
+0 19 18 101218 1 1522780642
+/
+172.58.21.96
+0 25 24 149685 1 1522962560
+/contacto.html
+static.customer-201-116-233-114.uninet-ide.com.mx
+0 1 1 4211 0 0
+-
+google-proxy-66-102-8-206.google.com
+0 30 30 180094 0 0
+-
+crawl-66-249-70-24.googlebot.com
+0 1 0 497 0 0
+-
+www.whois.sc
+0 2 1 5345 1 1523432751
+/
+msnbot-131-253-25-214.search.msn.com
+0 4 4 5456 0 0
+-
+138.197.96.193
+0 1 1 4848 1 1523517912
+/
+google-proxy-66-249-93-56.google.com
+0 1 1 4848 1 1522599456
+/
+138.197.96.199
+0 1 1 4848 1 1524142342
+/
+40.77.177.113
+0 1 1 110 0 0
+-
+msnbot-207-46-13-192.search.msn.com
+0 1 0 497 0 0
+-
+msnbot-157-55-39-38.search.msn.com
+0 2 2 22586 0 0
+-
+40.77.177.117
+0 1 1 78 0 0
+-
+200.111.127.2
+0 11 10 61963 1 1524137488
+/contacto.html
+msnbot-207-46-13-32.search.msn.com
+0 1 1 4487 1 1524165964
+/productosyservicios.html
+51-15-154-150.rev.poneytelecom.eu
+0 2 0 0 0 0
+-
+104.129.194.80
+0 21 20 143306 1 1523827535
+/
+dsl-189-169-129-235-dyn.prod-infinitum.com.mx
+0 13 12 100319 1 1522953069
+/productosyservicios.html
+google-proxy-66-102-6-176.google.com
+0 7 6 52600 1 1523453358
+/contacto.html
+dsl-189-171-188-74-dyn.prod-infinitum.com.mx
+0 14 13 104438 1 1523355998
+/contacto.html
+40.77.177.125
+0 1 1 17789 0 0
+-
+msnbot-40-77-167-184.search.msn.com
+0 8 4 22312 1 1524127113
+/
+200.1.118.115
+0 1 1 10248 0 0
+-
+fixed-187-189-154-21.totalplay.net
+0 4 4 14516 1 1523374786
+/
+ip1.ip-164-132-91.eu
+0 2 2 9696 2 1523258489
+/
+dsl-187-139-224-30-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1522753427
+/
+95.211.163.39
+0 1 0 497 1 1523067460
+/
+43.241.36.103
+0 1 1 4848 1 1523407816
+/
+170.2.52.28
+0 19 18 101218 1 1523273227
+/
+66.220.152.180
+0 2 2 30189 0 0
+-
+dsl-189-169-196-122-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523033645
+/
+dsl-187-232-35-239-dyn.prod-infinitum.com.mx
+0 2 2 14459 0 0
+-
+static.customer-201-144-7-229.uninet-ide.com.mx
+0 13 12 100319 1 1523396173
+/productosyservicios.html
+customer-tor-183-146.megared.net.mx
+0 14 13 104438 1 1522675231
+/contacto.html
+123.59.68.172
+0 54 0 26838 1 1524069651
+-
+customer-pue-15-31.megared.net.mx
+0 13 12 100319 1 1523566278
+/productosyservicios.html
+msnbot-157-55-39-139.search.msn.com
+0 10 10 70918 9 1523121595
+/
+customer-189-217-16-191.cablevision.net.mx
+0 13 12 100319 1 1523143069
+/productosyservicios.html
+186.115.66.77
+0 1 1 4211 0 0
+-
+crawl-66-249-65-219.googlebot.com
+0 3 2 10193 2 1523789512
+/
+69.58.178.56
+0 7 6 28062 1 1522710369
+/english.html
+msnbot-157-55-39-25.search.msn.com
+0 1 0 497 0 0
+-
+msnbot-157-55-39-65.search.msn.com
+0 6 0 2982 0 0
+-
+200-52-46-141.reservada.static.axtel.net
+0 12 11 61963 1 1523989967
+/contacto.html
+212-129-53-235.rev.poneytelecom.eu
+0 1 0 497 1 1524045718
+-
+crawl2.bl.semrush.com
+0 1 1 4487 1 1523111479
+/productosyservicios.html
+crawl-66-249-73-150.googlebot.com
+0 5 5 20622 2 1522753478
+/
+180.97.106.164
+0 1 0 497 1 1522851625
+-
+dsl-189-141-210-72-dyn.prod-infinitum.com.mx
+0 27 26 188041 1 1522716909
+/productosyservicios.html
+40.77.177.154
+0 2 2 1109 0 0
+-
+sogouspider-123-126-113-121.crawl.sogou.com
+0 2 1 5345 1 1522578053
+/
+173.205.33.18
+0 1 1 4848 1 1522947343
+/
+span-ipmi.prg.opendns.com
+0 1 1 4848 1 1522852803
+/
+spider-4.lipperhey.com
+0 11 8 38752 1 1523703337
+/
+40.77.177.160
+0 1 1 44 0 0
+-
+reallyattractive.com
+0 2 0 994 1 1523188027
+/
+google-proxy-66-249-84-48.google.com
+0 5 5 45561 1 1524105154
+/contacto.html
+msnbot-199-30-25-0.search.msn.com
+0 17 17 95873 0 0
+-
+dynamic-216-194-74-76.tera-byte.com
+0 1 1 4848 1 1524084133
+/
+google-proxy-66-249-88-80.google.com
+0 12 11 40334 1 1523289254
+/productosyservicios.html
+dsl-189-163-227-229-dyn.prod-infinitum.com.mx
+0 8 8 55842 1 1523367533
+/
+msnbot-199-30-25-239.search.msn.com
+0 1 1 17789 0 0
+-
+167.99.70.116
+0 6 0 2982 0 0
+-
+customer-gdl-131-81.megared.net.mx
+0 8 8 55842 1 1522946948
+/
+75.189-202-251.bestel.com.mx
+0 2 2 14459 0 0
+-
+mobile-166-137-143-086.mycingular.net
+0 1 1 10248 0 0
+-
+customer-187-210-230-8.uninet-ide.com.mx
+0 21 21 207454 1 1524144953
+/productosyservicios.html
+fixed-187-189-247-179.totalplay.net
+0 8 8 55842 1 1523960519
+/
+crawl15.bl.semrush.com
+0 2 2 8479 2 1523688210
+/quienessomos.html
+ip21.ip-51-38-12.eu
+0 1 1 4848 1 1523919284
+/
+212-83-178-172.rev.poneytelecom.eu
+0 1 0 497 0 0
+-
+customer-gdl-37-180.megared.net.mx
+0 19 18 101218 1 1524090507
+/
+159.89.46.81
+0 8 6 28559 1 1523556551
+/productosyservicios.html
+msnbot-157-55-39-135.search.msn.com
+0 2 2 19002 0 0
+-
+customer-187-141-58-231-sta.uninet-ide.com.mx
+0 1 1 10248 0 0
+-
+wsh36.acoe.k12.ca.us
+0 1 0 497 1 1522663557
+-
+187-176-35-223.dynamic.axtel.net
+0 8 8 55842 1 1523542060
+/
+dsl-187-149-154-19-dyn.prod-infinitum.com.mx
+0 13 12 100319 1 1523534122
+/productosyservicios.html
+crawl-66-249-69-159.googlebot.com
+0 12 11 44443 6 1524146053
+/
+crawl-66-249-64-80.googlebot.com
+0 3 1 5842 1 1523128685
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+bd3c0990.virtua.com.br
+0 4 1 6339 1 1524243153
+/
+pagedebate.com
+0 9 9 43632 9 1524211746
+/
+scan-92.security.ipip.net
+0 1 1 4848 1 1524202875
+/
+google-proxy-66-102-6-16.google.com
+0 1 1 3631 1 1524183900
+/quienessomos.html
+30.red-2-139-250.staticip.rima-tde.net
+0 1 1 10248 0 0
+-
+crawl-66-249-70-22.googlebot.com
+0 3 2 10193 2 1524194298
+/
+crawl20.lp.007ac9.net
+0 7 6 28062 1 1524192958
+/contacto.html
+anon-62-213.vpn.ipredator.se
+0 2 0 994 0 0
+-
+shared83.accountservergroup.com
+0 6 0 2982 0 0
+-
+31.184.193.154
+0 2 2 9696 2 1524236866
+/
+5-255-250-144.spider.yandex.com
+0 2 1 4984 1 1524192813
+/productosyservicios.html
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 4848 1 1524261155
+/
+google-proxy-66-102-6-18.google.com
+0 13 12 163454 0 0
+-
+108.179.194.151
+0 3 3 14544 1 1524215079
+/
+scan-72.security.ipip.net
+0 1 1 4848 1 1524262689
+/
+msnbot-157-55-39-118.search.msn.com
+0 1 0 497 0 0
+-
+hn.kd.ny.adsl
+0 1 1 4848 1 1524256619
+/
+google-proxy-66-102-6-14.google.com
+0 6 6 34092 1 1524183907
+/contacto.html
+167.99.70.116
+0 1 0 497 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 2183
+http://tornoayala.com/css/main.css
+1 35
+http://tornoayala.com/css/inner.css
+1 1
+http://www.tornoayala.com/quienessomos.html
+1 73
+https://www.google.com.py/
+0 1
+http://www.tornoayala.com/contacto.html
+1 58
+http://yandex.ru/clck/jsredir
+0 1
+http://tornoayala.com/productosyservicios.html
+1 3
+http://www.tornoayala.com/css/main.css
+1 363
+https://www.bing.com/
+0 4
+https://www.facebook.com/
+0 1
+http://tornoayala.com/new/ajax/
+1 3
+http://tornoayala.com/new/ajax/contacto_php.php
+1 2
+http://search.aol.com/aol/search
+0 1
+http://tornoayala.com/css/style.css
+1 15
+https://www.google.com.do/
+0 1
+android-app://com.google.android.googlequicksearchbox
+0 9
+http://tornoayala.com/new/ajax/contacto.php
+1 8
+https://www.google.com.br/
+0 1
+http://l.facebook.com/l.php
+0 2
+https://www.google.ca/
+0 2
+http://www.google.com/url
+0 2
+http://www.tornoayala.com/robots.txt
+1 1
+http://www.tornoayala.com/css/inner.css
+1 68
+https://www.google.com/
+0 20
+http://www.tornoayala.com/productosyservicios.html
+1 626
+https://www.google.cl/
+0 3
+http://tornoayala.com/contacto.html
+1 4
+http://www.tornoayala.com/index.html
+1 45
+https://www.google.co.ve/
+0 5
+https://www.google.es/
+0 5
+https://www.google.com.mx/
+0 157
+https://www.google.com
+0 1
+http://tornoayala.com/index.html
+1 1
+http://www.tornoayala.com/
+1 1074
+http://tornoayala.com
+1 42
+http://www.tornoayala.com/css/style.css
+1 261
+http://www.tornoayala.com
+1 1
+https://www.google.com.pe/
+0 1
+https://www.google.com.gt/
+0 2
+http://tornoayala.com/new/quienes_somos.php
+1 18
+http://www.cylex.mx/reviews/viewcompanywebsite.aspx
+0 1
+http://www.netcraft.com/survey/
+0 1
+http://tornoayala.com/new/contacto.php
+1 91
+https://www.google.com.co/
+0 3
+http://www.tornoayala.com/english.html
+1 10
+http://tornoayala.com/new/productos.php
+1 1
+http://tornoayala.com/new/english.php
+1 13
+http://www.google.com/
+0 12
+http://tornoayala.com/
+1 126
+http://www.tornoayala.com/prueba.php
+1 2
+https://www.google.com.ar/
+0 5
+http://tornoayala.com/new/
+1 81
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 268
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 7
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 14
+Mozilla/4.0 (compatible;)
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 19
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G920V Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 1
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 23
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 15
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1464.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-G935A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Lenovo A2016b30 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.107 Mo
+0 19
+Mozilla/5.0 (Linux; Android 7.0; Lenovo K33b36 Build/NRD90N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobil
+0 13
+Mozilla/5.0 (Linux; Android 7.0; GO Onyx Plus Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR
+0 8
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 57
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G610M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 C
+0 26
+Java/1.8.0_161
+0 1
+Googlebot-Image/1.0
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 30
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 27
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 49
+Mozilla/5.0 (Linux; Android 5.0.2; LG-H542 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 19
+Mozilla
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 7
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 16
+Mozilla/5.0 (Linux; Android 4.4.2; Blade L3 Plus Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mob
+0 14
+Mozilla/5.0 (Linux; Android 5.1; VIVAX FLY 2 Build/LMY47D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 1
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 37
+Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.
+0 12
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 199
+python-requests/2.13.0
+0 2
+Mozilla/5.0 (compatible; ips-agent)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 76
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 6
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safar
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 11
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 1
+curl/7.40.0
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537
+0 29
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/11.0.654.0 Safari/534.17
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L03 Build/HUAWEICUN-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.
+0 13
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 10
+Mozilla/5.0 (Linux; Android 8.0.0; ALP-L09 Build/HUAWEIALP-L09S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 M
+0 14
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 14
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; XT1635-02 Build/NPN26.118-22-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.10
+0 22
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 28
+Mozilla/5.0 (Linux; Android 4.4.2; SGH-I337M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 16
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 13
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/41.0.2272.118 Safar
+0 54
+Mozilla/5.0 (compatible; Dataprovider.com;)
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 4
+Apache-HttpClient/4.5.2 (Java/1.8.0_151)
+0 16
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; M4 SS1060 Build/JDQ39)
+0 1
+NYU Internet Census (https://scan.lol; research@scan.lol)
+0 75
+Mozilla/5.0 (Linux; Android 7.0; Moto C Build/NRD90M.054) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile 
+0 26
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 3
+Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604
+0 12
+Mozilla/5.0 (Linux; Android 6.0; LG-K580 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Saf
+0 14
+Mozilla/5.0 (Linux; Android 7.0; Moto C Plus Build/NRD90M.05.034) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137
+0 15
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 7
+curl/7.29.0
+0 1
+fasthttp
+0 2
+Mozilla/5.0
+0 94
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/63.0.3239.132 Safari/537.36
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/65.0.3325.152 Mobile/
+0 71
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 18
+WhatsApp/0.2.8691 N
+0 1
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/56.0.3016.109 Safari/537.32
+0 1
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:4:\"\\0\\0\\0a\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandler
+0 1
+COMODO DCV
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Safari/537.36 Chrome-Lighthouse
+0 40
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 96
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJ25.93-14.7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 
+0 20
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 2
+Mozilla/5.0 zgrab/0.x
+0 17
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US
+0 6
+Wget(linux)
+0 24
+ZmEu
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 27
+Mozilla/5.0 (compatible; DnyzBot/1.0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3282.167 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 7
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 50
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.33
+0 1
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/tornoayala.com)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 22
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; M4 SS1060 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 13
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36 OPR/46.0.2597.
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-A510M Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.33
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 14
+Mozilla/5.0 (Linux; Android 7.0; LGMS210 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.302
+0 1
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 45
+Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 6012A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 M
+0 14
+python-requests/2.18.1
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1
+curl/7.58.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:54.0) Gecko/20100101 Firefox/54.0
+0 466
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 20
+Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 35
+Mozilla/5.0 (Linux; Android 7.0; SM-A720F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Sa
+0 15
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MRA58N) AppleWebKit/537.36(KHTML, like Gecko) Chrome/61.0.3116.0 Mobile Safa
+0 59
+Mozilla/5.0 (Windows NT 5.1; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0
+0 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 S
+0 30
+LightspeedSystemsCrawler Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US
+0 9
+Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 Project 25499 (project25499.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 2
+Mozilla/5.0 (Linux; Android 6.0; 5012G Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safar
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 20
+Mozilla/5.0 (compatible; aiHitBot/2.9; +https://www.aihitdata.com/about)
+0 18
+Mozilla/5.0 (Linux; Android 7.0; LG-H870 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Saf
+0 14
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+0 27
+Mozilla/5.0 (Linux; Android 6.0; Blade V6 Plus Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobi
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; MAAU; MAAU)
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 22
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 1
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 3
+Mozilla/5.0 (Windows NT 5.1; WOW64; x64) AppleWebKit/531.78.15 (KHTML, like Gecko) Chrome/55.1.6682.1310 Safari/532.07 OPR/42
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 191
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C114 Saf
+0 18
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J710MN Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 13
+Mozilla/5.0 (Linux; Android 7.1.1; Moto Z2 Play Build/NPSS26.118-19-6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.332
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 1
+nutch-1.4/Nutch-1.4
+0 2
+Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Sa
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/63.0.3239.84 Chrome/63.0.3239.84 Safar
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/60.0.3042.92 Safari/537.32
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 6
+python-requests/2.10.0
+0 1
+Mozilla/5.0 (X11; CrOS x86_64 10323.62.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.184 Safari/537.36
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 3
+Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Ch
+0 14
+Mozilla/5.0 (Linux; Android 4.4.2; GT-P5210 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/
+0 19
+Mozilla/5.0 (Linux; Android 5.1; Blade A465 Build/LMY47D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.
+0 13
+Internet Explorer
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 7
+Mozilla/5.0 (Linux; Android 5.1.1; ONE E1005 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile
+0 28
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 270
+Hex-Migrator (HexQAWorker:Test=False:pid=17187:user=c275055)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 5.0; ALE-L02 Build/HuaweiALE-L02) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mob
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:59.0) Gecko/20100101 Firefox/59.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36 OPR/45.0.2
+0 1
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-J327T1 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile S
+0 14
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 Scan
+0 12
+libwww-perl/6.05
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.8
+0 1
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 16
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/43.0.185608249 Mobile/15C
+0 21
+Telesphoreo
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Sa
+0 18
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 126
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 949
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 1
+python-requests/2.9.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.
+0 8
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (compatible; DnyzBot/1.0)
+0 45
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 2
+Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPN25.137-82) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.
+0 13
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+0 19
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile S
+0 13
+ia_archiver
+0 12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 1
+www.probethenet.com scanner
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40
+0 19
+Mozilla/5.0 (Windows NT 6.1; rv:27.3) Gecko/20130101 Firefox/27.3
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Chromium/12.0.742.91 Safari/534.30
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+0 19
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 59
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/38.0.1025.166 M
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile 
+0 26
+Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; HTC Desire 530 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 M
+0 26
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:30.N) Gecko/20110302 Firefox/30.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
