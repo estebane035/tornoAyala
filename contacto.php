@@ -36,8 +36,9 @@
                 <label for="message">Mensaje*</label>
                 <textarea class="form-control required" rows="6" id="mensaje" name="mensaje" placeholder="" aria-required="true"></textarea>
               </div>
+              <input type="hidden" id="token" name="token">
               <div class="row">
-                 <div class="col-md-4"><input type="submit" value="Enviar correo" class="submit-button btn btn-lg btn-default"></div>
+                 <div class="col-md-4"><input type="submit" value="Enviar correo" class="g-recaptcha submit-button btn btn-lg btn-default" data-sitekey="6Lcltz0aAAAAAL5pNdw8192CBQ7el0UAUdmcqfzM" data-callback='onSubmit' data-action='submit'></div>
                  <div class="col-md-8">
                   <div class="hidden" id="alerta">
                     <label id="content-alerta"></label>
@@ -64,9 +65,10 @@
     <?php include("inc/footer.php"); ?>
 
     <?php include("inc/scripts.php"); ?>
-
+    
     <script src="scripts/contacto.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB-Oq-WHG-knSvcEN8vdKDkWWPfERDV6TA&callback=initMap"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
 
   </body>
 

@@ -339,9 +339,33 @@ $cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 $cabeceras .= 'To: Taller de torno Ayala <contacto@tornoayala.com>' . "\r\n";
 $cabeceras .= 'From: Contacto web <tornoAyala@tornoAyala.com>' . "\r\n";
 
-// Enviarlo
+// Verificamos el token 
+$campos 		= 	array(
+							'secret' => '6Lcltz0aAAAAADzKd5PiQEYDevgxdnwX91L0dNUd', 
+							'response' => $_POST["token"]
+						);
+$fields_string 	= http_build_query($campos);
+$ch 			= curl_init();
 
-mail('contacto@tornoayala.com', 'Contacto Pagina web', $htmlBody, $cabeceras);
+curl_setopt($ch, CURLOPT_URL, 'https://www.google.com/recaptcha/api/siteverify');
+curl_setopt($ch, CURLOPT_POSTFIELDS, $fields_string );
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER ,true);
 
-echo "El correo se ha enviado exitosamente.";
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+
+$data 			= curl_exec($ch);
+curl_close($ch);
+$respuesta 		=	json_decode($data);
+
+if ($respuesta->success) {
+	// Enviarlo
+	mail('contacto@tornoayala.com', 'Contacto Pagina web', $htmlBody, $cabeceras);
+	echo "El correo se ha enviado exitosamente.";
+} else{
+	echo "Error verificando código CAPTCHA, intenta de nuevo.";
+}
+
+
 ?>
